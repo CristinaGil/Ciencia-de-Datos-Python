@@ -1,5 +1,5 @@
 # TEST SCRIPT TO DELETE
 
-x = 1  #first
-y <- 2 #second
-z <- 3 #third
+x <- 1  # first
+y <- 2 # second
+z <- 3 # third
